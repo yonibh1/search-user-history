@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github-user-history-viewer/static/css/main.f855e6bc.css",
+    "main.js": "/github-user-history-viewer/static/js/main.2f9582cd.js",
+    "static/js/453.ff868eb4.chunk.js": "/github-user-history-viewer/static/js/453.ff868eb4.chunk.js",
+    "index.html": "/github-user-history-viewer/index.html",
+    "main.f855e6bc.css.map": "/github-user-history-viewer/static/css/main.f855e6bc.css.map",
+    "main.2f9582cd.js.map": "/github-user-history-viewer/static/js/main.2f9582cd.js.map",
+    "453.ff868eb4.chunk.js.map": "/github-user-history-viewer/static/js/453.ff868eb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2f9582cd.js"
+  ]
+}
